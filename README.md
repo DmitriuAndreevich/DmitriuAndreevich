@@ -4,11 +4,10 @@
   <a href="mailto:ddimyc34@gmail.com"><img src="https://img.shields.io/badge/Email-ddimyc34@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
   <a href="https://github.com/DmitriuAndreevich"><img src="https://img.shields.io/badge/GitHub-DmitriuAndreevich-black?style=flat&logo=github" alt="GitHub"></a>
   <a href="https://www.codewars.com/users/DmitriuAndreevich"><img src="https://img.shields.io/badge/Codewars-DmitriuAndreevich-red?style=flat&logo=codewars" alt="Codewars"></a>
-  
+</div>
+<div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding gif">
   <br><br> 
-  <br><br>
-  <br><br>
 </div>
 
 
