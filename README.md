@@ -6,9 +6,9 @@
   <a href="https://www.codewars.com/users/DmitriuAndreevich"><img src="https://img.shields.io/badge/Codewars-DmitriuAndreevich-red?style=flat&logo=codewars" alt="Codewars"></a>
   
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding gif">
+  <br><br> 
 </div>
 
----
 
 ## 🎓 Education
 - **Gymnasium 35** (2013–2024)  
@@ -21,7 +21,7 @@
 ### Programming
 - **Languages:** C++ (Advanced), Java (Intermediate), Python (Basic)  
 - **Tools:** CLion, VS Code, Git, Linux  
-- **Interests:** Algorithms, Low-level Optimization, Clean Code  
+- **Interests:** Algorithms, Optimization, Cybersecurity
 
 ### Languages
 - **English:** B1 
@@ -44,9 +44,9 @@
 ---
 
 ## 💡 Strengths
-- **Fast learner** – Mastered C++17/20 features in 3 months  
-- **Persistent** – Solved 150+ Codewars katas (6-kyu)  
-- **Detail-oriented** – Implemented zero-memory-leak guarantee in DateTime library  
+- **Fast learner** – Mastered C++17/20 f
+- **Persistent** – Solved 150+ Codewars katas   
+- **Detail-oriented**   
 
 ---
 
