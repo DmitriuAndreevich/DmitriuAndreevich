@@ -25,7 +25,8 @@
 - **Interests:** Algorithms, Optimization, Cybersecurity
 
 ### Languages
-- **English:** B1 
+- **English:** B1
+- **Russian:** native 
 
 ---
 
