@@ -34,7 +34,7 @@
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| **RSA** | Working with large numbers, key encryption. Creating your own BigInteger class | [GitHub](https://github.com/amcp-pit/task4-rsa-DmitriuAndreevich) | 
+| **RSA** | Working with large numbers, key encryption. Creating your own BigInteger class | C++, CMake, OOP | [GitHub](https://github.com/amcp-pit/task4-rsa-DmitriuAndreevich) | 
 | **HexView** | Advanced binary file viewer with parsing capabilities | C++, CMake, Bitwise ops | [GitHub](https://github.com/amcp-pit/op24-task8-hexview-DmitriuAndreevich) |
 | **Stock Exchange** | Real-time trading simulation engine | C++, OOP, Threading | [GitHub](https://github.com/amcp-pit/task2-stock-exchange-DmitriuAndreevich) |
 | **Crockford's Base32** | Implementation of efficient encoding/decoding | C++, Algorithms | [GitHub](https://github.com/amcp-pit/op24-task9-crockford-DmitriuAndreevich) |
