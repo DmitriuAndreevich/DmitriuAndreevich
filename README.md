@@ -34,6 +34,8 @@
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
+| **Containers** |Tutorial code for most STL containers, including iterators and fundamental algorithms | C++, CMake, OOP, fundamental algorithms, working with STL | [GitHub](https://github.com/DmitriuAndreevich/Containers) | 
+| **Arcanoid** | Mini-game written using SFML 3.0 framework | C++, CMake, OOP, SFML 3.0 | [GitHub](https://github.com/DmitriuAndreevich/Arcanoid) | 
 | **RSA** | Working with large numbers, key encryption. Creating your own BigInteger class | C++, CMake, OOP | [GitHub](https://github.com/amcp-pit/task4-rsa-DmitriuAndreevich) | 
 | **HexView** | Advanced binary file viewer with parsing capabilities | C++, CMake, Bitwise ops | [GitHub](https://github.com/amcp-pit/op24-task8-hexview-DmitriuAndreevich) |
 | **Stock Exchange** | Real-time trading simulation engine | C++, OOP, Threading | [GitHub](https://github.com/amcp-pit/task2-stock-exchange-DmitriuAndreevich) |
