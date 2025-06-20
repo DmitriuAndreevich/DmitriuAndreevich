@@ -45,6 +45,7 @@
 | **Roman Calculator** | Arithmetic with Roman numeral validation | C++, Parsing| [GitHub](https://github.com/amcp-pit/op24-task7-romancalc-DmitriuAndreevich) |
 | **Matrix calculator** | Calculating inverse matrices | C++, Parsing| [GitHub](https://github.com/amcp-pit/op24-task6-matrixcalc-DmitriuAndreevich) |
 | **Calendar** | Interactive calendar with event management | C++, CLI | [GitHub](https://github.com/amcp-pit/op24-task5-calendar-DmitriuAndreevich) |
+
 **Other Projects:** [View All Repositories](https://github.com/DmitriuAndreevich?tab=repositories)
 
 ---
