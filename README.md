@@ -30,7 +30,7 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Projects
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
