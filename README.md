@@ -34,7 +34,7 @@
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| **Containers** |Tutorial code for most STL containers, including iterators and fundamental algorithms | C++, CMake, OOP, Fundamental algorithms, Working with STL,Unit tests | [GitHub](https://github.com/DmitriuAndreevich/Containers) | 
+| **Containers** |Tutorial code for most STL containers, including iterators and fundamental algorithms | C++, Make, OOP, Fundamental algorithms, Working with STL,Unit tests | [GitHub](https://github.com/DmitriuAndreevich/Containers) | 
 | **Arcanoid** | Mini-game written using SFML 3.0 framework | C++, CMake, OOP, SFML 3.0 | [GitHub](https://github.com/DmitriuAndreevich/Arcanoid) | 
 | **RSA** | Working with large numbers, key encryption. Creating your own BigInteger class | C++, CMake, OOP, Encryption | [GitHub](https://github.com/amcp-pit/task4-rsa-DmitriuAndreevich) |
 | **Turing machine** | Working with a Turing Machine. Finite state machines | C++, CMake, OOP, Finite state machine theory | [GitHub](https://github.com/amcp-pit/task3-busy-beaver-DmitriuAndreevich) |
