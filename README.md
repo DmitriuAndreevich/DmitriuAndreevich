@@ -51,7 +51,7 @@
 ---
 
 ## 💡 Strengths
-- **Fast learner** – Mastered C++17/20 f
+- **Fast learner** – Mastered C++17/20
 - **Persistent** – Solved 150+ Codewars katas   
 - **Detail-oriented**   
 
