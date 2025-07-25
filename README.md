@@ -36,13 +36,13 @@
 |---------|-------------|--------------|------|
 | **BigInteger** |Created a library for working with large numbers.| C++, CMake, OOP,Unit tests| [GitHub](https://github.com/DmitriuAndreevich/BigInteger) | 
 | **Containers** |Tutorial code for most STL containers, including iterators and fundamental algorithms | C++, Make, OOP, Fundamental algorithms, Working with STL,Unit tests | [GitHub](https://github.com/DmitriuAndreevich/Containers) | 
-| **Arcanoid** | Mini-game written using SFML 3.0 framework | C++, CMake, OOP, SFML 3.0 | [GitHub](https://github.com/DmitriuAndreevich/Arcanoid) | 
+| **Arcanoid** | Mini-game written using SFML 3.0 framework | C++, OOP, SFML 3.0 | [GitHub](https://github.com/DmitriuAndreevich/Arcanoid) | 
 | **RSA** | Working with large numbers, key encryption. Creating your own BigInteger class | C++, CMake, OOP, Encryption | [GitHub](https://github.com/amcp-pit/task4-rsa-DmitriuAndreevich) |
-| **Turing machine** | Working with a Turing Machine. Finite state machines | C++, CMake, OOP, Finite state machine theory | [GitHub](https://github.com/amcp-pit/task3-busy-beaver-DmitriuAndreevich) |
+| **Turing machine** | Working with a Turing Machine. Finite state machines | C++, OOP, Finite state machine theory | [GitHub](https://github.com/amcp-pit/task3-busy-beaver-DmitriuAndreevich) |
 | **Stock Exchange** | Simple trading simulation engine | C++, OOP, Parsing, CLI | [GitHub](https://github.com/amcp-pit/task2-stock-exchange-DmitriuAndreevich) |
 | **DateTime Library** | Library for working with dates and times | C++17, OOP, Unit tests | [GitHub](https://github.com/amcp-pit/task1-datetime-DmitriuAndreevich) |
 | **Crockford's Base32** | Implementation of efficient encoding/decoding | C++, Basic algorithms,Bitwise ops | [GitHub](https://github.com/amcp-pit/op24-task9-crockford-DmitriuAndreevich) |
-| **HexView** | Advanced binary file viewer with parsing capabilities | C++, CMake, Bitwise ops | [GitHub](https://github.com/amcp-pit/op24-task8-hexview-DmitriuAndreevich) |
+| **HexView** | Advanced binary file viewer with parsing capabilities | C++, Bitwise ops | [GitHub](https://github.com/amcp-pit/op24-task8-hexview-DmitriuAndreevich) |
 | **Roman Calculator** | Arithmetic with Roman numeral validation | C++, Parsing| [GitHub](https://github.com/amcp-pit/op24-task7-romancalc-DmitriuAndreevich) |
 | **Matrix calculator** | Calculating inverse matrices | C++, Parsing| [GitHub](https://github.com/amcp-pit/op24-task6-matrixcalc-DmitriuAndreevich) |
 | **Calendar** | Interactive calendar with event management | C++, CLI | [GitHub](https://github.com/amcp-pit/op24-task5-calendar-DmitriuAndreevich) |
